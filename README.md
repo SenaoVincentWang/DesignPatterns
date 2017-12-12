@@ -1,5 +1,5 @@
 # DesignPatterns
-#  安裝 ES2015 編譯工具
+#  安裝 Javascript ES2015 編譯工具
 
 ## 安裝 node.js
 
@@ -14,7 +14,7 @@ npm config set proxy http://proxyhq.senao.com.tw:80
 npm config set https-proxy http://proxyhq.senao.com.tw:80
 ```
 
-## 安裝 WebPack
+## 安裝 WebPack 與 node_modules
 
 假設此 Git 被 Clone 到 C:\DesignPatterns，請在 Commad Prompt 輸入
 
